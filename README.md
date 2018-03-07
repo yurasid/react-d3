@@ -6,10 +6,7 @@ We would like you to create a mini data visualization app.  This app should crea
 
 ## Setup
 
-1. Fork this project.
-2. Set up the project to use the [Github API](https://developer.github.com). You can use version 3 or 4.
-3. Feel free completely change whatever you want in this project **Insider Tip:** I'd start with the home view
-4. Use the data in whatever way you choose to best reflect **your** activity, contributions, and work.
+1. Fork this project
 
 ## Mandatory Tech Stack
 
