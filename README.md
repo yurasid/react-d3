@@ -4,22 +4,13 @@ The purpose of this project is to allow us to evaluate your competency with `Jav
 
 We would like you to create a mini data visualization app for a JavaScript hero, John David Dalton.  The app has had data prepopulated into it for JDD's GitHub info.
 
-Work on this for 4 hours and give us an update.
+We dont want this to take over your life so work on this for about 4 hours and check in.
 
 ## Setup
 
 1. Fork this project
 2. Read the `package.json` to see how to run the project
 3. The initial redux state is in the app
-
-## Mandatory Tech Stack
-
-You must correctly use these in your project:
-
-- [ ] Use react
-- [ ] Use redux
-
-**Insider Tip:** We are quite particular when it comes to redux.  Be purposeful in what you do.
 
 ## Tech we use
 
