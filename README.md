@@ -4,7 +4,7 @@ The purpose of this project is to allow us to evaluate your competency with `Jav
 
 We would like you to create a mini data visualization app for a JavaScript hero, John David Dalton.  The app has had data prepopulated into it for JDD's GitHub info.
 
-We dont want this to take over your life so work on this for about 4 hours and check in.
+We dont want this to take over your life so work on it for about 4 hours and check in.
 
 ## Setup
 
