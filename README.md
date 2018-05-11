@@ -1,10 +1,10 @@
 # JavaScript: React Evaluation Project
 
-The purpose of this project is to allow us to evaluate your competency with `JavaScript` using React.  Your `JavaScript` level (not your React) is of utmost value to us when we make a decision on a possible future team member.
+The purpose of this project is to allow us to evaluate your competency with `JavaScript` using React.  Your `JavaScript`, `HTML`, and `CSS` knowledge (not just your React) are of utmost value to us when we make a decision on a possible future team member.
 
 We would like you to create a mini data visualization app for a JavaScript hero, John David Dalton.  The app has had data prepopulated into it for JDD's GitHub info.
 
-Work on this for a maximum of 4 hours then send us your code.
+Work on this for 4 hours and give us an update.
 
 ## Setup
 
@@ -30,6 +30,7 @@ You must correctly use these in your project:
 
 - Add this project to **your** GitHub account and send us... actually go test it again and then send us the link
 - Your project must pass the eslint provided in cc-react-scripts
-- Remember this is your first impression with us
 
-# Good luck and hope to see you soon
+### Remember this is your first impression with us :)
+
+## Good luck and hope to see you soon
