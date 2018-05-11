@@ -1,6 +1,6 @@
 # JavaScript: React Evaluation Project
 
-The purpose of this project is to allow us to evaluate your competency with `JavaScript` using React.  Your `JavaScript`, `HTML`, and `CSS` knowledge (not just your React) are of utmost value to us when we make a decision on a possible future team member.
+The purpose of this project is to allow us to evaluate your competency with `JavaScript` using React.  Your `JavaScript`, `HTML`, and `CSS` knowledge (not just your React) are very valuable to us when we make a decision on a possible future team member.
 
 We would like you to create a mini data visualization app for a JavaScript hero, John David Dalton.  The app has had data prepopulated into it for JDD's GitHub info.
 
