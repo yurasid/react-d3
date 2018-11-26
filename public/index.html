@@ -31,6 +31,31 @@
     <noscript>
       You need to enable JavaScript to run this app.
     </noscript>
+    <test-component>
+      <img src='./favicon.ico' />
+    </test-component>
+    <script>
+      var template = document.createElement('template')
+
+      template.innerHTML = "<slot></slot>"
+
+      class TestComponent extends HTMLElement {
+        constructor() {
+          super()
+          this.attachShadow({
+            mode: "open"
+          })
+        }
+
+        connectedCallback() {
+          this.shadowRoot.appendChild(
+            template.content.cloneNode(true)
+          )
+        }
+      }
+
+      customElements.define('test-component', TestComponent)
+    </script>
     <div id="root"></div>
     <!--
       This HTML file is a template.
